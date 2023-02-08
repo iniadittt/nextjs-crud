@@ -1,0 +1,27 @@
+{
+    "name": "crud-pemweb",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint",
+        "knex": "knex"
+    },
+    "dependencies": {
+        "bootstrap": "^5.2.3",
+        "dotenv": "^16.0.3",
+        "knex": "^2.4.2",
+        "moment": "^2.29.4",
+        "mysql": "^2.18.1",
+        "mysql2": "^3.1.0",
+        "next": "13.1.6",
+        "react": "18.2.0",
+        "react-dom": "18.2.0"
+    },
+    "devDependencies": {
+        "eslint": "8.33.0",
+        "eslint-config-next": "13.1.6"
+    }
+}
